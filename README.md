@@ -18,8 +18,8 @@ sh
 - **Linux/macOS:** Install via package manager:
   
 sh
-  `sudo apt install tesseract-ocr  # Ubuntu/Debian
-  brew install tesseract          # macOS`
+      `sudo apt install tesseract-ocr  # Ubuntu/Debian`
+       `brew install tesseract          # macOS`
 
 
 ### 3️⃣ Set Tesseract Path (Windows Only)
@@ -27,14 +27,14 @@ If Tesseract is not in your system PATH, add this to main.py:
 python
 pytesseract.pytesseract.tesseract_cmd = r'C:\Path\To\Tesseract-OCR\tesseract.exe'
 
-_Default path: C:\Program Files\Tesseract-OCR\tesseract.exe_
+`_Default path: C:\Program Files\Tesseract-OCR\tesseract.exe_`
 
 ## 📂 Usage
 1. Place your images inside the screenshots/ folder
 2. Run the script:
    
 sh
-   `python main.py`
+       `python main.py`
 
 3. Choose the extraction type from the interface
 4. Extracted text will be saved in extracted_text.txt

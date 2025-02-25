@@ -1,0 +1,39 @@
+--- Screenshot 2025-02-11 171353.png ---
+Nom
+Med 1
+Med 2
+Med 3
+Med 4
+Med 5
+Med 6
+
+Med 7
+
+Stock
+
+12
+
+32
+
+34
+
+13
+
+55
+
+75
+
+21
+
+Category
+
+Analgésiques
+Antibiotiques
+Hypotenseurs
+Analgésiques
+Antibiotiques
+Hypotenseurs
+
+Analgésiques
+
+

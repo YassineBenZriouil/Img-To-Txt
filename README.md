@@ -34,7 +34,7 @@ _Default path: C:\Program Files\Tesseract-OCR\tesseract.exe_
 2. Run the script:
    
 sh
-   python main.py
+   `python main.py`
 
 3. Choose the extraction type from the interface
 4. Extracted text will be saved in extracted_text.txt

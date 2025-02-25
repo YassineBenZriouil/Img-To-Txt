@@ -10,7 +10,7 @@ Extract text from images using Python + Tesseract OCR
 ## 🛠️ Setup
 ### 1️⃣ Install Dependencies
 sh
-pip install pytesseract pillow opencv-python
+`pip install pytesseract pillow opencv-python`
 
 
 ### 2️⃣ Install Tesseract OCR
@@ -18,8 +18,8 @@ pip install pytesseract pillow opencv-python
 - **Linux/macOS:** Install via package manager:
   
 sh
-  sudo apt install tesseract-ocr  # Ubuntu/Debian
-  brew install tesseract          # macOS
+  `sudo apt install tesseract-ocr  # Ubuntu/Debian
+  brew install tesseract          # macOS`
 
 
 ### 3️⃣ Set Tesseract Path (Windows Only)
